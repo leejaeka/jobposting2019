@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9684a01d-910b-44b2-ad82-fe8ae7f90901" name="Default Changelist" comment="Merge branch 'master' of https://markus.teach.cs.toronto.edu/git/csc207-2019-05/group_0003&#10;&#10;# Conflicts:&#10;#&#9;phase2/src/main/java/HRCoordinatorMenuGUI.java&#10;#&#9;phase2/src/main/resources/postings.ser&#10;#&#9;phase2/src/main/resources/users.ser" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="154">
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/ApplicantGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/MenuGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/HRCoordinatorGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/GUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Project/Model/Applicant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Project/Model/Interviewer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Project/Model/HRCoordinator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/EmployeeGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1518">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Project/Manager/CompanyManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>','</find>
+      <find>',\'</find>
+      <find>apply</find>
+      <find>has been matched</find>
+      <find>the applicant does not have a</find>
+      <find>getusername</find>
+      <find>updateInstruc</find>
+      <find>todo</find>
+      <find>c</find>
+      <find>number</find>
+      <find>go</find>
+      <find>create</find>
+      <find>number of days</find>
+      <find>past</find>
+      <find>check</find>
+      <find>pastApplications</find>
+      <find>has been mat</find>
+      <find>there is no inter</find>
+      <find>add</find>
+      <find>addapplicant</find>
+      <find>addApplicantsInterviewing</find>
+      <find>getappli</find>
+      <find>matchIn</find>
+      <find>there is no</find>
+      <find>there is curren</find>
+      <find>selectuser</find>
+      <find>one step</find>
+      <find>[</find>
+      <find>Facebook</find>
+      <find>interviewers</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/Design Patterns" />
+        <option value="$PROJECT_DIR$/src/main/java/Interview.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UserLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DisjointSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EmployeeTUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompanyManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InterviewerTUI.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/companies.ser" />
+        <option value="$PROJECT_DIR$/src/main/resources/postings.ser" />
+        <option value="$PROJECT_DIR$/src/main/resources/users.ser" />
+        <option value="$PROJECT_DIR$/src/main/java/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TagManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Loader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HRCoordinatorTUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ApplicantTUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PostingManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InterviewerMenuGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Requirement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PostingInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RequiredSkills.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Util.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HRCoordinatorMenuGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ApplicantMenuGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MenuGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Instruction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Requirements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ApplicantGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Applicant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interviewer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SaveManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Posting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HRCoordinator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InterviewerGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/HRCoordinatorGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Project/SaveManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Project/GUI/InterviewerGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Project/Util.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/phase2.iml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_api_common_1_7_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_1_25_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_client_google_api_client_gson_1_25_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_1_30_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_grpc_1_30_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_gax_httpjson_0_47_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_cloud_firestore_v1beta1_0_26_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_12_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_iam_v1_0_12_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_storage_v1_rev135_1_24_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_credentials_0_11_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auth_google_auth_library_oauth2_http_0_11_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_value_auto_value_1_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_1_43_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_grpc_1_43_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_core_http_1_43_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_firestore_0_61_0_beta.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_cloud_google_cloud_storage_1_43_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_firebase_firebase_admin_6_8_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_1_25_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_appengine_1_24_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_gson_1_25_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson2_1_25_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_http_client_google_http_client_jackson_1_24_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_oauth_client_google_oauth_client_1_25_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_util_3_6_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_auth_1_13_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_13_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_13_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_13_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_13_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_13_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_13_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_22_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_22_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_22_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_22_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_22_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_22_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_22_Final.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_15_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_grpc_metrics_0_12_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_grpc_util_0_15_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_http_util_0_15_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_controlsfx_controlsfx_8_40_14.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_threeten_threetenbp_1_3_3.xml" />
+        <option value="$PROJECT_DIR$/phase2.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="735" />
+    <option name="width" value="1200" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="phase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phase2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phase2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../floatingpoint" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project.Main" />
+      <module name="phase2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="phase2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9684a01d-910b-44b2-ad82-fe8ae7f90901" name="Default Changelist" comment="" />
+      <created>1564256902364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564256902364</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16778524" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.2549575" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6657718" weight="0.39093485" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4986577" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7744966" weight="0.35835695" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.3342282" side_tool="true" weight="0.3753541" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.84832215" visible="true" weight="0.18130311" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49530202" weight="0.04249292" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://markus.teach.cs.toronto.edu/git/csc207-2019-05/group_0003&#10;&#10;# Conflicts:&#10;#&#9;phase2/src/main/java/HRCoordinatorMenuGUI.java&#10;#&#9;phase2/src/main/resources/postings.ser&#10;#&#9;phase2/src/main/resources/users.ser" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://markus.teach.cs.toronto.edu/git/csc207-2019-05/group_0003&#10;&#10;# Conflicts:&#10;#&#9;phase2/src/main/java/HRCoordinatorMenuGUI.java&#10;#&#9;phase2/src/main/resources/postings.ser&#10;#&#9;phase2/src/main/resources/users.ser" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/HRCoordinatorTUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/EmployeeMenuGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/PostingManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Requirement.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InterviewerMenuGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/HRCoordinatorMenuGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ApplicantMenuGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/GUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/MenuGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Util.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tag.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DocumentRater.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/EmployeeGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/PostingInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Requirements.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Instruction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/DesignPatterns">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Company.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/WithdrawalObserver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ApplicantController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ApplicantGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/LoginGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/TagManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/SaveManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/HRCoordinator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interview.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interviewer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/InterviewerGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/HRCoordinatorController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Applicant.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Posting.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/HRCoordinatorGUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/users.ser">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="2282" selection-start-line="11" selection-start-column="2282" selection-end-line="11" selection-end-column="2282" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/SaveManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5632">
+          <caret line="266" column="9" selection-start-line="266" selection-start-column="9" selection-end-line="266" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/InterviewerGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="227" column="29" lean-forward="true" selection-start-line="227" selection-start-column="29" selection-end-line="227" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/ApplicantGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/MenuGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/HRCoordinatorGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/Model/Applicant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/Model/Interviewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/Model/HRCoordinator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/GUI/EmployeeGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Project/Manager/CompanyManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>phase2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-core:2.9.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

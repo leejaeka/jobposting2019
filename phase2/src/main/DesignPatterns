@@ -1,0 +1,25 @@
+Iterator:
+- if you store a collection out of order, you can use this to return each instance in order
+- for each statements for(Student s: classList)
+- when you want to separate out "how" you stored a collection from the order you return them in
+
+Observer:
+- updates based on an action that happens somewhere else
+- helps make classes smaller, if action A and action B are not both happening in the same class
+- The class that contains action B, can observe the class that does action A
+- A causes B
+
+Strategy:
+- when there is more than one possible algorithm and you haven't decided (yet)
+
+Dependency Injection:
+- make two classes more encapsulated from each other
+- helps you divide the work of coding between multiple people without generating so many conflicts
+
+Factory Method Pattern:
+- you have an inheritance hierarchy and you don't want to have changes to the inheriting
+    classes affect the class that uses the instances
+- allows changes to the hierarchy that don't affect the rest of the code (except the factory)
+
+MVC:
+- separating methods that store, control, and display code
